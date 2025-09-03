@@ -14,8 +14,7 @@ Designed to be **clean, responsive, and ATS-friendly**, showcasing my skills, pr
 ---
 
 ## 🌐 Live Demo
-👉 [View Resume](https://Ghazi-Resume
-.github.io/Aniqa-Resume/)  
+👉 [View Resume](https://ghazi829.github.io/Ghazi-Resume/)  
 
 ---
 
@@ -29,4 +28,4 @@ Designed to be **clean, responsive, and ATS-friendly**, showcasing my skills, pr
 ## 📬 Contact
 - Email: [ghazipir1@gmail.com](mailto:ghazipir1@gmail.com)  
 - GitHub: [ghazi829](https://github.com/ghazi829)  
-- LinkedIn: [Pir Ghazi Shah](https://linkedin.com/in/    pir-ghazi-shah)  
+- LinkedIn: [Pir Ghazi Shah](https://linkedin.com/in/pir-ghazi-shah)  
