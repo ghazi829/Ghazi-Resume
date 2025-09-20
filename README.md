@@ -18,6 +18,13 @@ Designed to be **clean, responsive, and ATS-friendly**, showcasing my skills, pr
 
 ---
 
+
+## 📸 Preview
+
+![My Resume](Resume.png)
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3 (Flexbox & Grid)  
