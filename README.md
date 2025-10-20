@@ -21,7 +21,7 @@ Designed to be **clean, responsive, and ATS-friendly**, showcasing my skills, pr
 
 ## 📸 Preview
 
-![My Resume](Resume.png)
+![My Resume](Assets/Resume.png)
 
 ---
 

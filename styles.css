@@ -53,6 +53,24 @@ body{
 .contacts a{ color:var(--brand-ink); text-decoration:none; font-weight:500; }
 .contacts a:hover{ text-decoration:underline; }
 
+/* Download resume */
+/* .resume-btn {
+  margin-left: 180px;
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s;
+}
+
+.resume-btn:hover {
+  background-color: #0056b3;
+} */
+
+
 /* Sections */
 .section{
   background:var(--card);
